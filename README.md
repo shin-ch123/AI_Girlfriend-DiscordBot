@@ -12,3 +12,6 @@ npm(v9.3.1)
 必要なパッケージは、
 `npm install discord.js dotenv openai`
 でインストールが可能です
+
+## Botの起動
+ターミナルにて、`node main.js`と入力すると起動できます
